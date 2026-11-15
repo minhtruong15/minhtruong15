@@ -7,25 +7,17 @@
 
 ## 🛠️ Tech Stack
 
-**Backend & API**
+**Web & Programming Basics**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" />
   </a>
 </p>
 
-**Frontend & GIS**
+**Database & Essential Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
-  </a>
-  <img height="48" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-</p>
-
-**Database & DevOps Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" />
   </a>
 </p>
 
