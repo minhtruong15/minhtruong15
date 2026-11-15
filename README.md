@@ -5,31 +5,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Backend & API**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+**Frontend Magic**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,tailwind,bootstrap,materialui&theme=dark" />
+  </a>
 </p>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+**Backend Artistry**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,express,supabase,mongodb,mysql,postgres&theme=dark" />
+  </a>
 </p>
 
-**Database & DevOps Tools**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+**DevOps & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -37,12 +33,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhtruong15&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhtruong15&layout=compact&langs_count=8&theme=buefy&hide_border=false" />
+  <img height="175em" src="https://github-readme-stats.zcy.dev/api?username=minhtruong15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=minhtruong15&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minhtruong15&theme=buefy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=minhtruong15&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
