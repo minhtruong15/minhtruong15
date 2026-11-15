@@ -7,17 +7,17 @@
 
 ## 🛠️ Tech Stack
 
-**Web & Programming Basics**
+**Core & Web Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
   </a>
 </p>
 
-**Database & Essential Tools**
+**DevOps & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
   </a>
 </p>
 
