@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyễn Minh Trường 👋
 
-- 🚀 A passionate **Full-stack Developer** focused on building robust and scalable web applications.
+- 🚀 A passionate **Full-stack Web Developer** focused on building robust and scalable web applications.
 - 💡 Currently studying and working on building modern web systems, REST APIs, and microservices architecture.
 
 ---
